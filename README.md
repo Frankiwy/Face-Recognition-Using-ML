@@ -1,10 +1,7 @@
 # Face-Recognition
 
 
-
-
-
-
+![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/national-wide.jpg)
 
 
 ## Task
@@ -99,4 +96,17 @@ everything you want reviewers to understand needs to be stated in it.
 ## Examples
 Visualizing your results in a similar way will be beneficial. Some “good” and
 one “bad” model:
+
+
+
+![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/CM.jpg)
+
+
+![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/heatmap.jpg)
+
+![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/heatmap2.jpg)
+
+
+
+
 
