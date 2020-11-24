@@ -1,7 +1,7 @@
 # Face-Recognition
 
 
-![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/national-wide.jpg)
+![University Logo](https://github.com/Frankiwy/Face-Recognition/blob/master/images/national-wide.jpg)
 
 
 ## Task
@@ -99,12 +99,12 @@ one “bad” model:
 
 
 
-![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/CM.jpg)
+![Confusion Matrix](https://github.com/Frankiwy/Face-Recognition/blob/master/images/CM.jpg)
 
 
-![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/heatmap.jpg)
+![Heatmap 1](https://github.com/Frankiwy/Face-Recognition/blob/master/images/heatmap.jpg)
 
-![University Logo](https://github.com/Frankiwy/Gesture_Recognition/blob/master/images/heatmap2.jpg)
+![Heatmap 2](https://github.com/Frankiwy/Face-Recognition/blob/master/images/heatmap2.jpg)
 
 
 
