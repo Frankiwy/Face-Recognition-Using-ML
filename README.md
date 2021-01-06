@@ -1,7 +1,7 @@
 # Face-Recognition
 
 
-![University Logo](https://github.com/Frankiwy/Face-Recognition/blob/master/images/national-wide.jpg)
+![University Logo](https://github.com/Frankiwy/Face-Recognition-Using-ML/blob/master/images/FH-Ober%C3%B6sterreich-Logo.jpg)
 
 
 ## Task
